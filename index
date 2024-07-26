@@ -1,0 +1,56 @@
+<!--
+   Link Package 
+-->
+    <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css"/>
+
+<!--
+   Font Awesome
+   
+-->
+
+    <link  rel="stylesheet"  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"/>
+
+    <link  rel="stylesheet"  href="https://cdnjs.cloudflare.com/ajax/libs/lightgallery-js/1.4.0/css/lightgallery.min.css"/>
+
+
+<!--
+   Link CSS 
+-->
+
+    <link rel="stylesheet" href="css/style.css" />
+
+copyright symbol
+©
+
+
+
+
+
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum
+              earum tempore rerum totam necessitatibus ipsum.
+
+
+              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum
+              earum tempore rerum totam necessitatibus ipsum.
+
+
+              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea minus
+              laudantium placeat suscipit.
+
+
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt
+            qui architecto fuga, voluptatum a deleniti nostrum rerum illum
+            quidem cupiditate odio perspiciatis.
+
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Alias sit
+            debitis.
+
+
+
+            <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lightgallery-js/1.4.0/js/lightgallery.min.js"></script>
+
+
+
+    @import url("https://fonts.googleapis.com/css2?family=Vidaloka&display=swap");
